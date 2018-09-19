@@ -1,0 +1,3 @@
+The array data structure is a collection of values
+
+The hash data structure is a collection of key and value pairs, where each unique key points to a value
