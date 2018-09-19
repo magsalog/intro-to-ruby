@@ -1,0 +1,3 @@
+Exception handling is used to manage the possibility of an error in one's program.
+
+Exception handling manages potential errors by allowing a program to only continue if inputs conform to an expected format. If inputs do not conform to an expected format (which will result in an error), exception handling allows the program to deal with the code without exiting the program.
